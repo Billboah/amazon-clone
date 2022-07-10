@@ -1,3 +1,7 @@
 *{
   margin: 0;
 }
+.App{
+  min-width: fit-content;
+  min-height: fit-content;
+}
