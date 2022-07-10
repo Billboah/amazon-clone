@@ -31,7 +31,6 @@ function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  console.log("the user is " + user);
 
   return (
     <Router>
